@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Software Name : Libon Lite
+  ~
+  ~ Copyright © 2008 - 2018 Orange Vallee.
+  ~
+  ~ This software is the confidential and proprietary information of France Telecom.
+  ~ You shall not disclose such Confidential Information and shall use it only in accordance with the
+  ~ terms of the license agreement you entered into with France Telecom.
+  -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.submodule">
+
+    <application>
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" />
+    </application>
+</manifest>
