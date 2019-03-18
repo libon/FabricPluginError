@@ -9,10 +9,4 @@
   -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.submodule">
-
-    <application>
-        <meta-data
-            android:name="io.fabric.ApiKey"
-            android:value="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" />
-    </application>
 </manifest>
